@@ -20,14 +20,7 @@ if (true) {
 }
 
 console.log(nombre1);
-/*
-Otro ejemplo var recuerda que guarda el valor de i asi que cuando imprima saldra i=6
-*/
 
-// for (var i=0; i<=5; i++) {
-//     console.log(`i: ${i}`);
-// }
-// console.log(i);
 /*
 Otro ejemplo con let 
 */
